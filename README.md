@@ -16,5 +16,3 @@ A starter program for writing JavaScript games
 # JavaScript Aill-In-One For Dummies
 
 I'm learning JavaScript, React, Vue, Svelte, and Node from JavaScript All-In-One For Dummies by Chris Minnick
-
-hi
